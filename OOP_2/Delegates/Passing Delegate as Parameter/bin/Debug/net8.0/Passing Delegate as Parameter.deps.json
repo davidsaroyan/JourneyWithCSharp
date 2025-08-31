@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Passing Delegate as Parameter/1.0.0": {
+        "runtime": {
+          "Passing Delegate as Parameter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passing Delegate as Parameter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

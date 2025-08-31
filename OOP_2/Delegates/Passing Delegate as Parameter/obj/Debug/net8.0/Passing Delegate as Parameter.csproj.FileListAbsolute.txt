@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\bin\Debug\net8.0\Passing Delegate as Parameter.exe
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\bin\Debug\net8.0\Passing Delegate as Parameter.deps.json
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\bin\Debug\net8.0\Passing Delegate as Parameter.runtimeconfig.json
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\bin\Debug\net8.0\Passing Delegate as Parameter.dll
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\bin\Debug\net8.0\Passing Delegate as Parameter.pdb
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\Passing Delegate as Parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\Passing Delegate as Parameter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\Passing Delegate as Parameter.AssemblyInfo.cs
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\Passing Delegate as Parameter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\Passing Delegate as Parameter.dll
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\refint\Passing Delegate as Parameter.dll
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\Passing Delegate as Parameter.pdb
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\Passing Delegate as Parameter.genruntimeconfig.cache
+C:\Users\User\source\repos\Passing Delegate as Parameter\Passing Delegate as Parameter\obj\Debug\net8.0\ref\Passing Delegate as Parameter.dll
