@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\bin\Debug\net8.0\Basic Delegate Invocation.exe
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\bin\Debug\net8.0\Basic Delegate Invocation.deps.json
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\bin\Debug\net8.0\Basic Delegate Invocation.runtimeconfig.json
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\bin\Debug\net8.0\Basic Delegate Invocation.dll
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\bin\Debug\net8.0\Basic Delegate Invocation.pdb
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\Basic Delegate Invocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\Basic Delegate Invocation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\Basic Delegate Invocation.AssemblyInfo.cs
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\Basic Delegate Invocation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\Basic Delegate Invocation.dll
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\refint\Basic Delegate Invocation.dll
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\Basic Delegate Invocation.pdb
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\Basic Delegate Invocation.genruntimeconfig.cache
+C:\Users\User\source\repos\Basic Delegate Invocation\Basic Delegate Invocation\obj\Debug\net8.0\ref\Basic Delegate Invocation.dll
