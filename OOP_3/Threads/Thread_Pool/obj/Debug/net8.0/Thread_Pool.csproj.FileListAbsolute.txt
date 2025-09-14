@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\bin\Debug\net8.0\Thread_Pool.exe
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\bin\Debug\net8.0\Thread_Pool.deps.json
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\bin\Debug\net8.0\Thread_Pool.runtimeconfig.json
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\bin\Debug\net8.0\Thread_Pool.dll
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\bin\Debug\net8.0\Thread_Pool.pdb
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\Thread_Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\Thread_Pool.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\Thread_Pool.AssemblyInfo.cs
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\Thread_Pool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\Thread_Pool.dll
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\refint\Thread_Pool.dll
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\Thread_Pool.pdb
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\Thread_Pool.genruntimeconfig.cache
+C:\Users\User\source\repos\Thread_Pool\Thread_Pool\obj\Debug\net8.0\ref\Thread_Pool.dll
