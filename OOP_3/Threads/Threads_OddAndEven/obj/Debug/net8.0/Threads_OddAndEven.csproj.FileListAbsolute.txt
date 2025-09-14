@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\bin\Debug\net8.0\Threads_OddAndEven.exe
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\bin\Debug\net8.0\Threads_OddAndEven.deps.json
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\bin\Debug\net8.0\Threads_OddAndEven.runtimeconfig.json
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\bin\Debug\net8.0\Threads_OddAndEven.dll
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\bin\Debug\net8.0\Threads_OddAndEven.pdb
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\Threads_OddAndEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\Threads_OddAndEven.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\Threads_OddAndEven.AssemblyInfo.cs
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\Threads_OddAndEven.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\Threads_OddAndEven.dll
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\refint\Threads_OddAndEven.dll
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\Threads_OddAndEven.pdb
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\Threads_OddAndEven.genruntimeconfig.cache
+C:\Users\User\source\repos\Threads_OddAndEven\Threads_OddAndEven\obj\Debug\net8.0\ref\Threads_OddAndEven.dll
