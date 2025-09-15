@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Events_1\Events_1\bin\Debug\net8.0\Events_1.exe
+C:\Users\User\source\repos\Events_1\Events_1\bin\Debug\net8.0\Events_1.deps.json
+C:\Users\User\source\repos\Events_1\Events_1\bin\Debug\net8.0\Events_1.runtimeconfig.json
+C:\Users\User\source\repos\Events_1\Events_1\bin\Debug\net8.0\Events_1.dll
+C:\Users\User\source\repos\Events_1\Events_1\bin\Debug\net8.0\Events_1.pdb
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\Events_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\Events_1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\Events_1.AssemblyInfo.cs
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\Events_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\Events_1.dll
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\refint\Events_1.dll
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\Events_1.pdb
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\Events_1.genruntimeconfig.cache
+C:\Users\User\source\repos\Events_1\Events_1\obj\Debug\net8.0\ref\Events_1.dll
