@@ -1,0 +1,25 @@
+{
+  "Result": {
+    "Main": {
+      "Temp": 24.09
+    },
+    "Wind": {
+      "Speed": 0.51
+    },
+    "Weather": [
+      {
+        "Description": "few clouds"
+      }
+    ],
+    "Name": "Yerevan"
+  },
+  "Id": 75,
+  "Exception": null,
+  "Status": 5,
+  "IsCanceled": false,
+  "IsCompleted": true,
+  "IsCompletedSuccessfully": true,
+  "CreationOptions": 0,
+  "AsyncState": null,
+  "IsFaulted": false
+}

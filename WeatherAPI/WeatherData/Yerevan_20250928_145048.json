@@ -1,0 +1,14 @@
+{
+  "Main": {
+    "Temp": 24.09
+  },
+  "Wind": {
+    "Speed": 0.51
+  },
+  "Weather": [
+    {
+      "Description": "few clouds"
+    }
+  ],
+  "Name": "Yerevan"
+}
