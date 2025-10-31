@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Football API Front</title>
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        #results {
+            margin-top: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Football Team Info</h1>
+    <input type="text" id="teamName" placeholder="Enter team name (e.g., Manchester United)">
+    <button onclick="getInfo()">Get Info</button>
+    <div id="results"></div>
+
+    <script>
+        async function getInfo() {
+            const teamName = document.getElementById('teamName').value;
+            const response = await fetch(`/api/team/${encodeURIComponent(teamName)}`);
+            if (!response.ok) {
+                document.getElementById('results').innerHTML = '<p>Team not found or error.</p>';
+                return;
+            }
+            const data = await response.json();
+
+            let html = '<h2>Last 5 Matches:</h2><ul>';
+            data.last5Matches.forEach(m => {
+                html += `<li>${m.homeTeam.name} ${m.score.fullTime.home ?? 'N/A'} - ${m.score.fullTime.away ?? 'N/A'} ${m.awayTeam.name} (${new Date(m.utcDate).toLocaleDateString()})</li>`;
+            });
+            html += '</ul>';
+
+            if (data.nextFixture) {
+                html += `<h2>Next Fixture:</h2><p>${data.nextFixture.homeTeam.name} vs ${data.nextFixture.awayTeam.name} (${new Date(data.nextFixture.utcDate).toLocaleDateString()})</p>`;
+            } else {
+                html += '<h2>Next Fixture:</h2><p>No upcoming fixture found.</p>';
+            }
+
+            html += '<h2>League Table:</h2><table><tr><th>Pos</th><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr>';
+            data.leagueTable.forEach(s => {
+                html += `<tr><td>${s.position}</td><td>${s.team.name}</td><td>${s.playedGames}</td><td>${s.won}</td><td>${s.draw}</td><td>${s.lost}</td><td>${s.points}</td></tr>`;
+            });
+            html += '</table>';
+
+            document.getElementById('results').innerHTML = html;
+        }
+    </script>
+</body>
+</html>
