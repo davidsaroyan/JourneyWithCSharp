@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\bin\Debug\net8.0\StringConcateComparison.exe
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\bin\Debug\net8.0\StringConcateComparison.deps.json
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\bin\Debug\net8.0\StringConcateComparison.runtimeconfig.json
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\bin\Debug\net8.0\StringConcateComparison.dll
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\bin\Debug\net8.0\StringConcateComparison.pdb
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\StringConcateComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\StringConcateComparison.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\StringConcateComparison.AssemblyInfo.cs
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\StringConcateComparison.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\StringConcateComparison.dll
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\refint\StringConcateComparison.dll
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\StringConcateComparison.pdb
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\StringConcateComparison.genruntimeconfig.cache
+C:\Users\User\source\repos\StringConcateComparison\StringConcateComparison\obj\Debug\net8.0\ref\StringConcateComparison.dll
