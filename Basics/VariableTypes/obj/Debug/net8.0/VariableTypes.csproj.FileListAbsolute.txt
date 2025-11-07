@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\VariableTypes\VariableTypes\bin\Debug\net8.0\VariableTypes.exe
+C:\Users\User\source\repos\VariableTypes\VariableTypes\bin\Debug\net8.0\VariableTypes.deps.json
+C:\Users\User\source\repos\VariableTypes\VariableTypes\bin\Debug\net8.0\VariableTypes.runtimeconfig.json
+C:\Users\User\source\repos\VariableTypes\VariableTypes\bin\Debug\net8.0\VariableTypes.dll
+C:\Users\User\source\repos\VariableTypes\VariableTypes\bin\Debug\net8.0\VariableTypes.pdb
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\VariableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\VariableTypes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\VariableTypes.AssemblyInfo.cs
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\VariableTypes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\VariableTypes.dll
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\refint\VariableTypes.dll
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\VariableTypes.pdb
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\VariableTypes.genruntimeconfig.cache
+C:\Users\User\source\repos\VariableTypes\VariableTypes\obj\Debug\net8.0\ref\VariableTypes.dll
