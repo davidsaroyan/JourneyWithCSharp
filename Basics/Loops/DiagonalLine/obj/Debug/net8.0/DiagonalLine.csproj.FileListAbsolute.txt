@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\bin\Debug\net8.0\DiagonalLine.exe
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\bin\Debug\net8.0\DiagonalLine.deps.json
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\bin\Debug\net8.0\DiagonalLine.runtimeconfig.json
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\bin\Debug\net8.0\DiagonalLine.dll
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\bin\Debug\net8.0\DiagonalLine.pdb
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\DiagonalLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\DiagonalLine.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\DiagonalLine.AssemblyInfo.cs
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\DiagonalLine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\DiagonalLine.dll
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\refint\DiagonalLine.dll
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\DiagonalLine.pdb
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\DiagonalLine.genruntimeconfig.cache
+C:\Users\User\source\repos\DiagonalLine\DiagonalLine\obj\Debug\net8.0\ref\DiagonalLine.dll
