@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HollowSquare\HollowSquare\bin\Debug\net8.0\HollowSquare.exe
+C:\Users\User\source\repos\HollowSquare\HollowSquare\bin\Debug\net8.0\HollowSquare.deps.json
+C:\Users\User\source\repos\HollowSquare\HollowSquare\bin\Debug\net8.0\HollowSquare.runtimeconfig.json
+C:\Users\User\source\repos\HollowSquare\HollowSquare\bin\Debug\net8.0\HollowSquare.dll
+C:\Users\User\source\repos\HollowSquare\HollowSquare\bin\Debug\net8.0\HollowSquare.pdb
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\HollowSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\HollowSquare.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\HollowSquare.AssemblyInfo.cs
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\HollowSquare.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\HollowSquare.dll
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\refint\HollowSquare.dll
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\HollowSquare.pdb
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\HollowSquare.genruntimeconfig.cache
+C:\Users\User\source\repos\HollowSquare\HollowSquare\obj\Debug\net8.0\ref\HollowSquare.dll
