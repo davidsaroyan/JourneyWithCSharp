@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\bin\Debug\net8.0\EvenNumbers.exe
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\bin\Debug\net8.0\EvenNumbers.deps.json
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\bin\Debug\net8.0\EvenNumbers.runtimeconfig.json
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\bin\Debug\net8.0\EvenNumbers.dll
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\bin\Debug\net8.0\EvenNumbers.pdb
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\EvenNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\EvenNumbers.dll
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\refint\EvenNumbers.dll
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\EvenNumbers.pdb
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\EvenNumbers.genruntimeconfig.cache
+C:\Users\User\source\repos\EvenNumbers\EvenNumbers\obj\Debug\net8.0\ref\EvenNumbers.dll
