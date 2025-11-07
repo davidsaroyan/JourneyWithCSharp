@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\bin\Debug\net8.0\RightTriangleInverted.exe
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\bin\Debug\net8.0\RightTriangleInverted.deps.json
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\bin\Debug\net8.0\RightTriangleInverted.runtimeconfig.json
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\bin\Debug\net8.0\RightTriangleInverted.dll
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\bin\Debug\net8.0\RightTriangleInverted.pdb
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\RightTriangleInverted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\RightTriangleInverted.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\RightTriangleInverted.AssemblyInfo.cs
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\RightTriangleInverted.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\RightTriangleInverted.dll
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\refint\RightTriangleInverted.dll
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\RightTriangleInverted.pdb
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\RightTriangleInverted.genruntimeconfig.cache
+C:\Users\User\source\repos\RightTriangleInverted\RightTriangleInverted\obj\Debug\net8.0\ref\RightTriangleInverted.dll
