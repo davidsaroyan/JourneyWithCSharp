@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\bin\Debug\net8.0\BitwiseAndShift.exe
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\bin\Debug\net8.0\BitwiseAndShift.deps.json
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\bin\Debug\net8.0\BitwiseAndShift.runtimeconfig.json
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\bin\Debug\net8.0\BitwiseAndShift.dll
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\bin\Debug\net8.0\BitwiseAndShift.pdb
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\BitwiseAndShift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\BitwiseAndShift.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\BitwiseAndShift.AssemblyInfo.cs
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\BitwiseAndShift.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\BitwiseAndShift.dll
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\refint\BitwiseAndShift.dll
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\BitwiseAndShift.pdb
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\BitwiseAndShift.genruntimeconfig.cache
+C:\Users\User\source\repos\BitwiseAndShift\BitwiseAndShift\obj\Debug\net8.0\ref\BitwiseAndShift.dll
