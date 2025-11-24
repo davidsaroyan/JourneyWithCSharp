@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\bin\Debug\net7.0\PolindromeChecker.exe
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\bin\Debug\net7.0\PolindromeChecker.deps.json
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\bin\Debug\net7.0\PolindromeChecker.runtimeconfig.json
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\bin\Debug\net7.0\PolindromeChecker.dll
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\bin\Debug\net7.0\PolindromeChecker.pdb
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.AssemblyInfo.cs
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.dll
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\refint\PolindromeChecker.dll
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.pdb
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\PolindromeChecker.genruntimeconfig.cache
+C:\Users\Student\source\repos\PolindromeChecker\PolindromeChecker\obj\Debug\net7.0\ref\PolindromeChecker.dll
