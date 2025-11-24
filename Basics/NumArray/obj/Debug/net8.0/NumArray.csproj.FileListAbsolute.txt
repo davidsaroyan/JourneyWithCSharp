@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\NumArray\NumArray\bin\Debug\net8.0\NumArray.exe
+C:\Users\User\source\repos\NumArray\NumArray\bin\Debug\net8.0\NumArray.deps.json
+C:\Users\User\source\repos\NumArray\NumArray\bin\Debug\net8.0\NumArray.runtimeconfig.json
+C:\Users\User\source\repos\NumArray\NumArray\bin\Debug\net8.0\NumArray.dll
+C:\Users\User\source\repos\NumArray\NumArray\bin\Debug\net8.0\NumArray.pdb
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\NumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\NumArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\NumArray.AssemblyInfo.cs
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\NumArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\NumArray.dll
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\refint\NumArray.dll
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\NumArray.pdb
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\NumArray.genruntimeconfig.cache
+C:\Users\User\source\repos\NumArray\NumArray\obj\Debug\net8.0\ref\NumArray.dll
