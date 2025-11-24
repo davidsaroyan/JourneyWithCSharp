@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TxtReader\TxtReader\bin\Debug\net8.0\TxtReader.exe
+C:\Users\User\source\repos\TxtReader\TxtReader\bin\Debug\net8.0\TxtReader.deps.json
+C:\Users\User\source\repos\TxtReader\TxtReader\bin\Debug\net8.0\TxtReader.runtimeconfig.json
+C:\Users\User\source\repos\TxtReader\TxtReader\bin\Debug\net8.0\TxtReader.dll
+C:\Users\User\source\repos\TxtReader\TxtReader\bin\Debug\net8.0\TxtReader.pdb
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\TxtReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\TxtReader.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\TxtReader.AssemblyInfo.cs
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\TxtReader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\TxtReader.dll
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\refint\TxtReader.dll
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\TxtReader.pdb
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\TxtReader.genruntimeconfig.cache
+C:\Users\User\source\repos\TxtReader\TxtReader\obj\Debug\net8.0\ref\TxtReader.dll
