@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\StructPoint\StructPoint\bin\Debug\net8.0\StructPoint.exe
+C:\Users\User\source\repos\StructPoint\StructPoint\bin\Debug\net8.0\StructPoint.deps.json
+C:\Users\User\source\repos\StructPoint\StructPoint\bin\Debug\net8.0\StructPoint.runtimeconfig.json
+C:\Users\User\source\repos\StructPoint\StructPoint\bin\Debug\net8.0\StructPoint.dll
+C:\Users\User\source\repos\StructPoint\StructPoint\bin\Debug\net8.0\StructPoint.pdb
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\StructPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\StructPoint.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\StructPoint.AssemblyInfo.cs
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\StructPoint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\StructPoint.dll
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\refint\StructPoint.dll
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\StructPoint.pdb
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\StructPoint.genruntimeconfig.cache
+C:\Users\User\source\repos\StructPoint\StructPoint\obj\Debug\net8.0\ref\StructPoint.dll
