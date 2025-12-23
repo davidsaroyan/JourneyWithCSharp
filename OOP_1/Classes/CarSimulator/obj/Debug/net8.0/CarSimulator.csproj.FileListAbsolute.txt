@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\CarSimulator\CarSimulator\bin\Debug\net8.0\CarSimulator.exe
+C:\Users\david\source\repos\CarSimulator\CarSimulator\bin\Debug\net8.0\CarSimulator.deps.json
+C:\Users\david\source\repos\CarSimulator\CarSimulator\bin\Debug\net8.0\CarSimulator.runtimeconfig.json
+C:\Users\david\source\repos\CarSimulator\CarSimulator\bin\Debug\net8.0\CarSimulator.dll
+C:\Users\david\source\repos\CarSimulator\CarSimulator\bin\Debug\net8.0\CarSimulator.pdb
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\CarSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\CarSimulator.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\CarSimulator.AssemblyInfo.cs
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\CarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\CarSimulator.dll
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\refint\CarSimulator.dll
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\CarSimulator.pdb
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\CarSimulator.genruntimeconfig.cache
+C:\Users\david\source\repos\CarSimulator\CarSimulator\obj\Debug\net8.0\ref\CarSimulator.dll
