@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ShapePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ShapePolymorphism.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ShapePolymorphism.AssemblyInfo.cs
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ShapePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\bin\Debug\net8.0\ShapePolymorphism.exe
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\bin\Debug\net8.0\ShapePolymorphism.deps.json
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\bin\Debug\net8.0\ShapePolymorphism.runtimeconfig.json
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\bin\Debug\net8.0\ShapePolymorphism.dll
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\bin\Debug\net8.0\ShapePolymorphism.pdb
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ShapePolymorphism.dll
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\refint\ShapePolymorphism.dll
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ShapePolymorphism.pdb
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ShapePolymorphism.genruntimeconfig.cache
+C:\Users\User\source\repos\ShapePolymorphism\ShapePolymorphism\obj\Debug\net8.0\ref\ShapePolymorphism.dll
