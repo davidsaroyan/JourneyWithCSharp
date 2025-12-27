@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Zoo\ZooSystem\bin\Debug\net8.0\ZooSystem.exe
+C:\Users\User\source\repos\Zoo\ZooSystem\bin\Debug\net8.0\ZooSystem.deps.json
+C:\Users\User\source\repos\Zoo\ZooSystem\bin\Debug\net8.0\ZooSystem.runtimeconfig.json
+C:\Users\User\source\repos\Zoo\ZooSystem\bin\Debug\net8.0\ZooSystem.dll
+C:\Users\User\source\repos\Zoo\ZooSystem\bin\Debug\net8.0\ZooSystem.pdb
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ZooSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ZooSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ZooSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ZooSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ZooSystem.dll
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\refint\ZooSystem.dll
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ZooSystem.pdb
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ZooSystem.genruntimeconfig.cache
+C:\Users\User\source\repos\Zoo\ZooSystem\obj\Debug\net8.0\ref\ZooSystem.dll
