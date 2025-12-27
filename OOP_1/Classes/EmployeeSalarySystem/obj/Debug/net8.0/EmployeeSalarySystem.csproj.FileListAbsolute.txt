@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.exe
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.deps.json
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.runtimeconfig.json
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.dll
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.pdb
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.AssemblyInfo.cs
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.dll
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\refint\EmployeeSalarySystem.dll
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.pdb
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.genruntimeconfig.cache
+C:\Users\User\source\repos\EmployeeSalarySystem\EmployeeSalarySystem\obj\Debug\net8.0\ref\EmployeeSalarySystem.dll
