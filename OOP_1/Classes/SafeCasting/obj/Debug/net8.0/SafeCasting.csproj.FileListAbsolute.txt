@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SafeCasting\SafeCasting\bin\Debug\net8.0\SafeCasting.exe
+C:\Users\User\source\repos\SafeCasting\SafeCasting\bin\Debug\net8.0\SafeCasting.deps.json
+C:\Users\User\source\repos\SafeCasting\SafeCasting\bin\Debug\net8.0\SafeCasting.runtimeconfig.json
+C:\Users\User\source\repos\SafeCasting\SafeCasting\bin\Debug\net8.0\SafeCasting.dll
+C:\Users\User\source\repos\SafeCasting\SafeCasting\bin\Debug\net8.0\SafeCasting.pdb
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\SafeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\SafeCasting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\SafeCasting.AssemblyInfo.cs
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\SafeCasting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\SafeCasting.dll
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\refint\SafeCasting.dll
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\SafeCasting.pdb
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\SafeCasting.genruntimeconfig.cache
+C:\Users\User\source\repos\SafeCasting\SafeCasting\obj\Debug\net8.0\ref\SafeCasting.dll
