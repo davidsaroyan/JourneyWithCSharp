@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\bin\Debug\net8.0\AnimalSimulator.exe
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\bin\Debug\net8.0\AnimalSimulator.deps.json
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\bin\Debug\net8.0\AnimalSimulator.runtimeconfig.json
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\bin\Debug\net8.0\AnimalSimulator.dll
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\bin\Debug\net8.0\AnimalSimulator.pdb
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\AnimalSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\AnimalSimulator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\AnimalSimulator.AssemblyInfo.cs
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\AnimalSimulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\AnimalSimulator.dll
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\refint\AnimalSimulator.dll
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\AnimalSimulator.pdb
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\AnimalSimulator.genruntimeconfig.cache
+C:\Users\User\source\repos\AnimalSimulator\AnimalSimulator\obj\Debug\net8.0\ref\AnimalSimulator.dll
