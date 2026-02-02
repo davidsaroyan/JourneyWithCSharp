@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sortable\Sortable\bin\Debug\net8.0\Sortable.exe
+C:\Users\User\source\repos\Sortable\Sortable\bin\Debug\net8.0\Sortable.deps.json
+C:\Users\User\source\repos\Sortable\Sortable\bin\Debug\net8.0\Sortable.runtimeconfig.json
+C:\Users\User\source\repos\Sortable\Sortable\bin\Debug\net8.0\Sortable.dll
+C:\Users\User\source\repos\Sortable\Sortable\bin\Debug\net8.0\Sortable.pdb
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\Sortable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\Sortable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\Sortable.AssemblyInfo.cs
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\Sortable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\Sortable.dll
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\refint\Sortable.dll
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\Sortable.pdb
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\Sortable.genruntimeconfig.cache
+C:\Users\User\source\repos\Sortable\Sortable\obj\Debug\net8.0\ref\Sortable.dll
