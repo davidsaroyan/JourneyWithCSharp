@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\bin\Debug\net8.0\CustomCircularBuffer.exe
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\bin\Debug\net8.0\CustomCircularBuffer.deps.json
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\bin\Debug\net8.0\CustomCircularBuffer.runtimeconfig.json
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\bin\Debug\net8.0\CustomCircularBuffer.dll
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\bin\Debug\net8.0\CustomCircularBuffer.pdb
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\CustomCircularBuffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\CustomCircularBuffer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\CustomCircularBuffer.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\CustomCircularBuffer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\CustomCircularBuffer.dll
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\refint\CustomCircularBuffer.dll
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\CustomCircularBuffer.pdb
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\CustomCircularBuffer.genruntimeconfig.cache
+C:\Users\User\source\repos\CustomCircularBuffer\CustomCircularBuffer\obj\Debug\net8.0\ref\CustomCircularBuffer.dll
