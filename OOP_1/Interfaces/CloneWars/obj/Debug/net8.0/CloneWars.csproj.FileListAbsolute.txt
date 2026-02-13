@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CloneWars\CloneWars\bin\Debug\net8.0\CloneWars.exe
+C:\Users\User\source\repos\CloneWars\CloneWars\bin\Debug\net8.0\CloneWars.deps.json
+C:\Users\User\source\repos\CloneWars\CloneWars\bin\Debug\net8.0\CloneWars.runtimeconfig.json
+C:\Users\User\source\repos\CloneWars\CloneWars\bin\Debug\net8.0\CloneWars.dll
+C:\Users\User\source\repos\CloneWars\CloneWars\bin\Debug\net8.0\CloneWars.pdb
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\CloneWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\CloneWars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\CloneWars.AssemblyInfo.cs
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\CloneWars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\CloneWars.dll
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\refint\CloneWars.dll
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\CloneWars.pdb
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\CloneWars.genruntimeconfig.cache
+C:\Users\User\source\repos\CloneWars\CloneWars\obj\Debug\net8.0\ref\CloneWars.dll
