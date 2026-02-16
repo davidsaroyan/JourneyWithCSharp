@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CustomValidation\CustomValidation\bin\Debug\net8.0\CustomValidation.exe
+C:\Users\User\source\repos\CustomValidation\CustomValidation\bin\Debug\net8.0\CustomValidation.deps.json
+C:\Users\User\source\repos\CustomValidation\CustomValidation\bin\Debug\net8.0\CustomValidation.runtimeconfig.json
+C:\Users\User\source\repos\CustomValidation\CustomValidation\bin\Debug\net8.0\CustomValidation.dll
+C:\Users\User\source\repos\CustomValidation\CustomValidation\bin\Debug\net8.0\CustomValidation.pdb
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\CustomValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\CustomValidation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\CustomValidation.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\CustomValidation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\CustomValidation.dll
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\refint\CustomValidation.dll
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\CustomValidation.pdb
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\CustomValidation.genruntimeconfig.cache
+C:\Users\User\source\repos\CustomValidation\CustomValidation\obj\Debug\net8.0\ref\CustomValidation.dll
