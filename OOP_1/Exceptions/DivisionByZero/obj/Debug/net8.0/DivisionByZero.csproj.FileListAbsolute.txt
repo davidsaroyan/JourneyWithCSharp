@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\bin\Debug\net8.0\DivisionByZero.exe
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\bin\Debug\net8.0\DivisionByZero.deps.json
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\bin\Debug\net8.0\DivisionByZero.runtimeconfig.json
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\bin\Debug\net8.0\DivisionByZero.dll
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\bin\Debug\net8.0\DivisionByZero.pdb
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\DivisionByZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\DivisionByZero.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\DivisionByZero.AssemblyInfo.cs
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\DivisionByZero.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\DivisionByZero.dll
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\refint\DivisionByZero.dll
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\DivisionByZero.pdb
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\DivisionByZero.genruntimeconfig.cache
+C:\Users\User\source\repos\DivisionByZero\DivisionByZero\obj\Debug\net8.0\ref\DivisionByZero.dll
