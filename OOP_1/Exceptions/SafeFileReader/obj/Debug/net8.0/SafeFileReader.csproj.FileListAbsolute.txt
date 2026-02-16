@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\bin\Debug\net8.0\SafeFileReader.exe
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\bin\Debug\net8.0\SafeFileReader.deps.json
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\bin\Debug\net8.0\SafeFileReader.runtimeconfig.json
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\bin\Debug\net8.0\SafeFileReader.dll
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\bin\Debug\net8.0\SafeFileReader.pdb
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\SafeFileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\SafeFileReader.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\SafeFileReader.AssemblyInfo.cs
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\SafeFileReader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\SafeFileReader.dll
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\refint\SafeFileReader.dll
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\SafeFileReader.pdb
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\SafeFileReader.genruntimeconfig.cache
+C:\Users\User\source\repos\SafeFileReader\SafeFileReader\obj\Debug\net8.0\ref\SafeFileReader.dll
